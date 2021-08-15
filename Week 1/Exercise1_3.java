@@ -1,4 +1,4 @@
-'''Consider First n even numbers starting from zero(0).Complete the code segment to calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
+'''Consider First n even numbers starting from zero(0).Complete the code segment to calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.'''
 '''Example:'''
 '''Input: n = 5'''
 '''-------'''
