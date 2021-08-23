@@ -14,6 +14,7 @@
 #### Navigate to Week 
 
 <a href="#w1"> `Week 1`</a>
+<a href="#w2"> `Week 2`</a>
 
 
 
@@ -27,3 +28,15 @@
   [Java Week 1:Q4](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%201/Exercise1_4.java) To check whether the number is an Armstrong number or not.
 
   [Java Week 1:Q5](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%201/Exercise1_5.java) To help Ram , find the highest mark and average mark secured by him in "s" number of subjects.
+
+## [WEEK 2](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/tree/main/Week%202)<span id="w2"></span>
+
+  [Java Week 2:Q1](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%202/Exercise2_1.java) To call the method  print() in class Student following the concept of inner class.
+
+   [Java Week 2:Q2](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%202/Exercise2_2.java) To call the method  print() of class Student first and then call print() method of class School.
+
+  [Java Week 2:Q3](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%202/Exercise2_3.java) To call print() method of class Question by creating a method named ‘studentMethod()’.
+
+  [Java Week 2:Q4](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%202/Exercise2_4.java) To call default constructor first and then any other constructor in the class Answer.
+
+  [Java Week 2:Q5](https://github.com/kshitiz2001/Programming_In_Java_NPTEL/blob/main/Week%202/Exercise2_5.java) To debug the program which is intended to print 'NPTEL JAVA'.
